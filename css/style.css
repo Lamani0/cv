@@ -1,0 +1,16 @@
+body{
+   background-color: rgb(156, 239, 250);
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%;
+    border-color: rgb(95, 129, 192);
+}
+h1,h2{
+    color: rgb(89, 20, 146);
+}
+img{
+    border-radius: 100;
+}
